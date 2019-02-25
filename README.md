@@ -4,3 +4,4 @@
 * Take step number as parameter
 * Give informations to the user
 * Ask for fingerprint if not provided from stdin
+* Border loops
